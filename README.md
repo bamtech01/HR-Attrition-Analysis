@@ -25,3 +25,15 @@ The analysis was conducted using Excel. The datset contains information on vario
 - Exploratory Data Analysis using Power Pivot and DAX measures
 - Correlation analysis was used to identify relationships between attrition and other factors like distance from home, years at the company, and job satisfaction.
 - Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashbords amde it easier to communicate the results to stakeholders and highlight key factors contributing to employee attrition. 
+
+### Pivot Tables
+
+### Key Insights and Findings:
+
+Here are few insights that were duscovered:
+
+- Employees with lower salaries are more likely to leave, especially when combined with low job satisfaction and limited growth opportunities.
+- Employees in the age group of 18-24 with less work experience (ofter 0-5years) showed the highest attrition rate likely due to career exploration, seeking better opportunites, desire for flexibility or educational pursuits.
+- Low work-life balance and job satisfaction are significant factors contributing to employee  attrition.
+- The Sales and Research & Development departments had higher attrition rates, with Sales seeing more turnover due to the high-preesure nature of the job, and Research & Delelopment due to dissatisfaction with growth opportunities.
+- Frequent business travel often leads to higher turnover rates.
