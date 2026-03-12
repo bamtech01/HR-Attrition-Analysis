@@ -16,3 +16,12 @@ Employee attrition is acritical concern for many organizations, as it impacts pr
 ### Data Structure
 
 The Dataset consists of a total of 1,470 entries with 35 columns about employee records, including attributes such as age, attrition status, business travel, daily rate, department, education, job role, and work-life balance, demographic details, job satisfaction, and performance metrics.
+
+### Methodolgy
+
+The analysis was conducted using Excel. The datset contains information on various employee characteristics, including age, eduction, business travel, salary, years at the company, job role, and work-life balance. The following steps were taken to analyze the data:
+
+- Data Cleaning and Preparation with Power Query
+- Exploratory Data Analysis using Power Pivot and DAX measures
+- Correlation analysis was used to identify relationships between attrition and other factors like distance from home, years at the company, and job satisfaction.
+- Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashbords amde it easier to communicate the results to stakeholders and highlight key factors contributing to employee attrition. 
